@@ -1,0 +1,5 @@
+# Multiclass Classifier on MNIST
+
+The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning.
+
+This project aims to train two models - the first being a SGDClassifier. The SGDClassifier implements a plain stochastic gradient descent learning routine which supports different loss functions and penalties for classification. SGD (stochastic gradient descent) is an optimisation technique used to train models. SGD has been successfully applied to large-scale and sparse machine learning problems often encountered in text classification and natural language processing. Given that the data is sparse, the classifiers in this module easily scale to problems with more than 10^5 training examples and more than 10^5 features.
