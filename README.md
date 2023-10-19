@@ -1,7 +1,7 @@
 # Multiclass Classifier on MNIST
 Applying Multiclass Classification on MNIST data.
 
-[Notebook] (https://github.com/sambuddharay/multiclass-classifier-on-mnist/blob/main/MNIST_classification.ipynb)
+[Notebook](https://github.com/sambuddharay/multiclass-classifier-on-mnist/blob/main/MNIST_classification.ipynb)
 
 # Motivation
 The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning.
@@ -17,4 +17,4 @@ The SGDClassifier implements a plain stochastic gradient descent learning routin
 # References -
 [https://github.com/faizanxmulla/machine-learning-practice](https://github.com/faizanxmulla/machine-learning-practice)
 [https://scikit-learn.org/stable/modules/sgd.html](https://scikit-learn.org/stable/modules/sgd.html)
-[https://michael-fuchs-python.netlify.app/2019/11/11/introduction-to-sgd-classifier/](https://michael-fuchs-python.netlify.app/2019/11/11/introduction-to-sgd-classifier/)
+[https://michael-fuchs-python.netlify.app/2019/11/11/introduction-to-sgd-classifier](https://michael-fuchs-python.netlify.app/2019/11/11/introduction-to-sgd-classifier/)
