@@ -15,6 +15,6 @@ The SGDClassifier implements a plain stochastic gradient descent learning routin
 
 
 # References -
-[https://github.com/faizanxmulla/machine-learning-practice](https://github.com/faizanxmulla/machine-learning-practice)
-[https://scikit-learn.org/stable/modules/sgd.html](https://scikit-learn.org/stable/modules/sgd.html)
+[https://github.com/faizanxmulla/machine-learning-practice](https://github.com/faizanxmulla/machine-learning-practice)\
+[https://scikit-learn.org/stable/modules/sgd.html](https://scikit-learn.org/stable/modules/sgd.html)\
 [https://michael-fuchs-python.netlify.app/2019/11/11/introduction-to-sgd-classifier](https://michael-fuchs-python.netlify.app/2019/11/11/introduction-to-sgd-classifier/)
